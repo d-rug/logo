@@ -1,6 +1,6 @@
 # Logos and Stickers for Davis R Users Group
 
-This repo contains files for the [Davis R Users Group](http://www.noamross.net/davis-r-users-group.html), created by Allison Simler.
+This repo contains files for the [Davis R Users Group](http://www.noamross.net/davis-r-users-group.html) logo and stickers, created by Allison Simler.
 
 ![](DRUG_final_cobalt.png)
 
