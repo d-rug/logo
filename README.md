@@ -6,4 +6,6 @@ This repo contains files for the [Davis R Users Group](http://www.noamross.net/d
 
 ![](DRUG_final_bluegrey.png)
 
+`*.ai` and `*.psd` are for Adobe Illustrator and Photoshop, respectively.  They can be opened with Inkscape and GIMP.
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
