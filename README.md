@@ -6,4 +6,4 @@ This repo contains files for the [Davis R Users Group](http://www.noamross.net/d
 
 ![](DRUG_final_bluegrey.png)
 
-We are releasing these under a CC-0 license, though we always appreciate it if you give us or Allison a mention if you use any part of them.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
